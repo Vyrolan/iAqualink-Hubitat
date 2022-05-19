@@ -1,0 +1,16 @@
+{
+"author": Vyrolan",
+"gitHubUrl": "https://github.com/Vyrolan",
+"payPalUrl": "",
+"packages": [
+{
+"name": "iAqualink Driver",
+"category": "Integrations",
+"location": "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/packageManifest.json",
+"description": "iAqualink driver to integrate pool/spa control into Hubitat",
+"tags": [
+"Pools & Spas"
+]
+}
+]
+}
