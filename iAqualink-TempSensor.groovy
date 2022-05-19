@@ -3,7 +3,7 @@ metadata {
             name: "iAqualink TempSensor",
             namespace: "iAqualink",
             author: "Vyrolan",
-            importUrl: ""
+            importUrl: "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/iAqualink-TempSensor.groovy"
     ) {
         capability "TemperatureMeasurement"
         command "Update", null

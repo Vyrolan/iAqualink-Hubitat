@@ -3,7 +3,7 @@ metadata {
             name: "iAqualink Heater",
             namespace: "iAqualink",
             author: "Vyrolan",
-            importUrl: ""
+            importUrl: "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/iAqualink-Heater.groovy"
     ) {
         capability "Thermostat"
         command "Update", null

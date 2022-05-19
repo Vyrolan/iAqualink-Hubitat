@@ -3,7 +3,7 @@ metadata {
             name: "iAqualink ToggleDevice",
             namespace: "iAqualink",
             author: "Vyrolan",
-            importUrl: ""
+            importUrl: "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/iAqualink-ToggleDevice.groovy"
     ) {
         capability "Switch"
         command "Update", null

@@ -3,7 +3,7 @@ metadata {
             name: "iAqualink ColorLight",
             namespace: "iAqualink",
             author: "Vyrolan",
-            importUrl: ""
+            importUrl: "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/iAqualink-ColorLight.groovy"
     ) {
         capability "Switch"
         command "SetColor", [[name: "Color", type: "String"]]
